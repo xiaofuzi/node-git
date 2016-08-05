@@ -1,6 +1,6 @@
 {
-  "name": "node-git",
-  "version": "0.0.1",
+  "name": "git-node-module",
+  "version": "0.0.3",
   "description": "a node.js git module",
   "main": "index.js",
   "scripts": {

@@ -4,11 +4,11 @@ var  git = require('./lib/git.js'),
 /**
  * example
  */
-gitClone('git@github.com:iwaimai-bi-fe/vue-component-skeleton.git',
-    './dist/app',
-    {
-        '-b': 'dist'
-    }
-)
+// gitClone('git@github.com:iwaimai-bi-fe/vue-component-skeleton.git',
+//     './dist/app',
+//     {
+//         '-b': 'dist'
+//     }
+// )
 
 module.exports = git
